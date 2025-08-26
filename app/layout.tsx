@@ -2,7 +2,8 @@ import type { Metadata } from 'next'
 import { GeistSans } from 'geist/font/sans'
 import { GeistMono } from 'geist/font/mono'
 import './globals.css'
-import { Analytics } from "@vercel/analytics/react"
+import { Analytics } from "@vercel/analytics/next"
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 export const metadata : Metadata = {
   title: "Devora | Web Development & Marketing",
@@ -51,6 +52,7 @@ html {
       </head>
       <body>{children}
         <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   )
