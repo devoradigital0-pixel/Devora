@@ -15,6 +15,7 @@ export function Hero() {
   const socialLinks = [
     { name: "Instagram", url: "https://www.instagram.com/devora._dev/" },
     { name: "Whatsapp", url: "https://wa.link/6m6z0c" },
+    { name: "Facebook", url: "https://www.facebook.com/profile.php?id=61579972828086" },
   ]
 
   return (
