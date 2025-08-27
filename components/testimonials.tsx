@@ -8,7 +8,7 @@ const testimonials = [
     content:
       "Exceptional work on our SaaS platform. The team delivered beyond our expectations with a modern, scalable solution.",
     rating: 5,
-    avatar: "/professional-woman-ceo.png",
+    avatar: "/professional-woman-ceo.webp",
   },
   {
     name: "Michael Chen",
@@ -16,7 +16,7 @@ const testimonials = [
     content:
       "Our Shopify store conversion rates increased by 40% after the redesign. Outstanding attention to detail and user experience.",
     rating: 5,
-    avatar: "/professional-man-founder.png",
+    avatar: "/professional-man-founder.webp",
   },
   {
     name: "Emily Rodriguez",
@@ -32,7 +32,7 @@ const testimonials = [
     content:
       "Clean, efficient code and excellent project management. The custom website perfectly represents our brand.",
     rating: 5,
-    avatar: "/professional-man-cto.png",
+    avatar: "/professional-man-cto.webp",
   },
   {
     name: "Lisa Wang",
@@ -40,14 +40,14 @@ const testimonials = [
     content:
       "Incredible attention to detail and user-centered design. The dashboard interface is intuitive and powerful.",
     rating: 5,
-    avatar: "/professional-woman-marketing-director.png",
+    avatar: "/professional-woman-marketing-director.webp",
   },
   {
     name: "James Miller",
     role: "Startup Founder",
     content: "From concept to launch, the team guided us through every step. Our MVP exceeded investor expectations.",
     rating: 5,
-    avatar: "/startup-founder.png",
+    avatar: "/startup-founder.webp",
   },
 ]
 

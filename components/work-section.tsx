@@ -12,7 +12,7 @@ const projects = [
     id: 1,
     title: "Local Services Platform",
     description: "platform connecting local service providers with customers.",
-    image: "/Hobbiess.png",
+    image: "/Hobbiess.webp",
     category: "Custom Website",
     tags: ["SaaS Website", "Landing Page", "Stripe"],
     link: "https://www.hobbiies.dk",
@@ -21,7 +21,7 @@ const projects = [
     id: 2,
     title: "E-commerce Jewelley Store",
     description: "Complete Shopify store with custom theme and advanced product filtering.",
-    image: "/zeesy.png",
+    image: "/zeesy.webp",
     category: "Shopify",
     tags: ["E-commerce", "Fashion", "Custom Theme"],
     link: "https://zeesy.pk/",
@@ -30,7 +30,7 @@ const projects = [
     id: 4,
     title: "Social Media Campaign",
     description: "Comprehensive social media strategy and content creation for tech startup.",
-    image: "/social-media-campaign.png",
+    image: "/social-media-campaign.webp",
     category: "Social Media",
     tags: ["Strategy", "Content", "Branding"],
     link: "/Social",
@@ -39,7 +39,7 @@ const projects = [
     id: 5,
     title: "WordPress Business Site",
     description: "Professional WordPress website with custom plugins and SEO optimization.",
-    image: "/wordpress.png",
+    image: "/wordpress.webp",
     category: "WordPress",
     tags: ["WordPress", "Business", "SEO"],
     link: "https://anzayjewellery.com/",
@@ -64,7 +64,7 @@ export function WorkSection() {
         preload="auto"
         className="absolute inset-0 w-full h-full object-cover"
       >
-        <source src="/work.mp4" type="video/mp4" />
+        <source src="/services.webm" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
 

@@ -93,7 +93,7 @@ export function Hero() {
           <div className="flex justify-center lg:justify-end">
             <div className="relative w-full max-w-lg">
               <img
-                src="/hero.png"
+                src="./hero.webp"
                 alt="Hero illustration"
                 className="w-full h-auto rounded-lg shadow-2xl"
               />
