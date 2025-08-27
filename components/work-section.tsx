@@ -33,7 +33,7 @@ const projects = [
     image: "/social-media-campaign.png",
     category: "Social Media",
     tags: ["Strategy", "Content", "Branding"],
-    link: "https://example.com/social-media",
+    link: "/Social",
   },
   {
     id: 5,
