@@ -46,7 +46,7 @@ const dami_data: TeamMember[] = [
     id: 3,
     name: 'Habib ur Rahman',
     role: 'Social Media Manager & Ads Specialist',
-    image: 'https://img.freepik.com/premium-photo/png-cartoon-portrait-glasses-white-background_53876-905385.webp',
+    image: 'https://img.freepik.com/premium-photo/png-cartoon-portrait-glasses-white-background_53876-905385.jpg',
     socialMedia: {
       instagram: 'https://www.instagram.com/habeebecom/',
     },
